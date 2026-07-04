@@ -317,7 +317,7 @@ aws-custom-vpc-network
 
 ## Author
 
-**Dennis Ayotunde**
+**Dennis Owoju**
 
 Final-Year Computer Engineering Student
 
